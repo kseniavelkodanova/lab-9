@@ -1,0 +1,10 @@
+C:\Alt\Docs\report.docx
+C:\Games\Game.exe
+D:\Music\Rock\song.mp3
+E:\file_only.txt
+X:\One\Two\Three\data.bin
+Z:\..\broken\path
+C:file_without_drive_slash.txt
+F:\RootOnly\photo.jpg
+C:\demo\last\spring\image.png
+C:\bad\no_extension
